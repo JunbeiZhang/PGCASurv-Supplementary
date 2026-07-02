@@ -8,7 +8,7 @@ This repository hosts the supplementary material for the following article:
 
 ## Contents
 
-- `Supplementary_Material.pdf`: Supplementary figures, tables, experimental details, and additional results.
+- [Supplementary_Material.pdf](./Supplementary_Material.pdf): Supplementary figures, tables, experimental details, and additional results.
 
 ## Citation
 
