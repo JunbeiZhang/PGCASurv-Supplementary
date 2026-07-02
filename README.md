@@ -15,7 +15,7 @@ This repository hosts the supplementary material for the following article:
 If you use or refer to this supplementary material, please cite the following article:
 
 ```bibtex
-@article{pgcasurv2026,
+@article{pgcasurv2026zhang,
   author  = {Zhang, Junbei and Zhao, Xuejing},
   title   = {PGCASurv: A Prior-Guided Cross-Attention Framework for Dynamic Survival Model with Longitudinal Data},
   journal = {IEEE Journal of Biomedical and Health Informatics},
